@@ -28,6 +28,16 @@
     "angular-e2e": {
       "tags": [],
       "implicitDependencies": ["angular"]
+    },
+    "ui": {
+      "tags": []
+    },
+    "second-angular": {
+      "tags": []
+    },
+    "second-angular-e2e": {
+      "tags": [],
+      "implicitDependencies": ["second-angular"]
     }
   }
 }

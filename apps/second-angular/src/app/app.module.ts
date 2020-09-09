@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { UiModule } from '@nx-app/ui';
 
-
 @NgModule({
   declarations: [AppComponent],
   imports: [BrowserModule, UiModule],
